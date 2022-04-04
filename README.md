@@ -15,6 +15,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 
+Bibliotecas
+
+- [Google Fonts](https://fonts.google.com/)
+
 ## 💻 Projeto
 
 O Social Tree é uma página com uma lista de links que pode ser usada em perfis de redes sociais.
